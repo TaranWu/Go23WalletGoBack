@@ -11,10 +11,10 @@ Pod::Spec.new do |s|
   s.version          = '1.0.0'
   s.summary          = 'Go23Wallet GoBack libarary'
   s.description      = 'Go23Wallet GoBack'
-  s.homepage         = 'https://github.com/Taran/Go23WalletGoBack'
+  s.homepage         = 'https://github.com/TaranWu/Go23WalletGoBack'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Taran' => 'NA' }
-  s.source           = { :git => 'https://github.com/Taran/Go23WalletGoBack.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/TaranWu/Go23WalletGoBack.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '12.0'
   s.swift_version    = '5.0'
